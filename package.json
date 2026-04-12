@@ -1,0 +1,8 @@
+{
+  "name": "scanbim-mcp",
+  "version": "1.0.2",
+  "description": "The AI Hub for AEC — Unified MCP server by ScanBIM Labs",
+  "main": "src/index.js",
+  "author": "ScanBIM Labs LLC",
+  "license": "MIT"
+}
